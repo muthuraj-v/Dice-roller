@@ -14,4 +14,4 @@
 - Interactive dice rolling animation
 - Real-time score updates
 - New game button to start a new game
-## Demo -[Link](https://muthuraj107.github.io/Dice-roller/)
+## Demo -[Link](https://muthuraj-v.github.io/Dice-roller/)
